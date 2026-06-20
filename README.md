@@ -298,7 +298,7 @@ npm run seed
 
 Add screenshots here to make the submission stronger:
 
-```md
+
 ### Home Page
 ![Home](./screenshots/home.png)
 
@@ -307,7 +307,7 @@ Add screenshots here to make the submission stronger:
 
 ### Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboard.PNG)
-```
+
 
 ---
 
