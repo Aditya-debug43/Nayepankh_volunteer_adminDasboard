@@ -303,10 +303,10 @@ Add screenshots here to make the submission stronger:
 ![Home](./screenshots/home.png)
 
 ### Volunteer Dashboard
-![Volunteer Dashboard](./screenshots/volunteer-dashboard.png)
+![Volunteer Dashboard](./screenshots/volunteer-dashboard.PNG)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.PNG)
 ```
 
 ---
