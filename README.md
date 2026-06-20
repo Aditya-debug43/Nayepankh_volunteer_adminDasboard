@@ -220,11 +220,10 @@ JWT_REFRESH_SECRET=your_refresh_secret
 JWT_ACCESS_EXPIRY=15m
 JWT_REFRESH_EXPIRY=7d
 
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_USER=your_email
-EMAIL_PASS=your_email_app_password
-EMAIL_FROM="NayePankh Foundation <your_email>"
+
+BREVO_API_KEY=xkeysib-your_brevo_api_key
+EMAIL_FROM="NayePankh Foundation <contact@nayepankh.com>"
+
 
 CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_key
