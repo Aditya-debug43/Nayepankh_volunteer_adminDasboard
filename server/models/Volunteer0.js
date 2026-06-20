@@ -122,8 +122,7 @@ const VolunteerSchema = new mongoose.Schema(
 VolunteerSchema.index({ status: 1, city: 1 });
 VolunteerSchema.index({ causeAreas: 1 });
 VolunteerSchema.index({ registeredAt: -1 });
-// Note: volunteerIdNumber is already indexed by `unique: true` on the field above,
-// so we do NOT redeclare it here (that caused the "Duplicate schema index" warning).
+VolunteerSchema.index({ volunteerIdNumber: 1 });
 VolunteerSchema.index({ fullName: 'text', email: 'text', phone: 'text' });
 
 // Certificate eligibility virtual
