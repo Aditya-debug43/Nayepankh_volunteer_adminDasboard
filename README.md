@@ -296,7 +296,7 @@ npm run seed
 
 ## 🖼 Screenshots
 
-Add screenshots here to make the submission stronger:
+
 
 
 ### Home Page
